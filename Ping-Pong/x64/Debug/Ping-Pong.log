@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\main.cpp(18,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\main.cpp(18,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\main.cpp(18,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\main.cpp(37,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\main.cpp(38,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\main.cpp(52,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\main.cpp(115,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\main.cpp(118,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\main.cpp(121,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Ping-Pong.vcxproj -> C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\x64\Debug\Ping-Pong.exe

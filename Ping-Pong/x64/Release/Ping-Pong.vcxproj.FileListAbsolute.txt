@@ -1,0 +1,3 @@
+C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\x64\Release\raylib.dll
+C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\x64\Release\glfw3.dll
+C:\Users\just_kys\Documents\Faint\CODE\C++\2025\Ping-Pong\Ping-Pong\x64\Release\Ping-Pong.vcxproj.Up2Date
